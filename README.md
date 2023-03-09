@@ -1,2 +1,2 @@
 # another-html-exam
-![screenshot](
+![screenshot](https://github.com/coddernordic/another-html-exam/blob/main/screenshot.png)
